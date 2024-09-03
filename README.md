@@ -9,7 +9,7 @@ I see myself as an enthusiastic and resilient person who is very much interested
     <img src="https://skillicons.dev/icons?i=c,cpp,java" />
   </a>
 </p>
-<br />
+---
 I started coding a while ago but I started coding for fun only recently. I wanted to learn JS frameworks & libraries, tools & platforms for playing and building projects. Eventually I learnt ..
 <br />
 ## Programming Languages like:
