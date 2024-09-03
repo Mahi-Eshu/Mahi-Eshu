@@ -1,6 +1,5 @@
 # Hello there! 👋
-## I'm *Mahesh Kumar*
-A fresher'24, graduation in Information Technology from R.M.D. Engineering College. Currently looking for an opportunity to work in a team and contribute to the organization. I'm currently based at Tiruttani. I see myself as an enthusiastic and resilient person who is very much interested in Full-stack development using Javascript. I started coding for a purpose a while ago, later I found myself coding for fun. 
+### I'm Mahesh Kumar, a fresher'24, graduation in Information Technology from R.M.D. Engineering College. Currently looking for an opportunity to work in a team and contribute to the organization. I'm currently based at Tiruttani. I see myself as an enthusiastic and resilient person who is very much interested in Full-stack development using Javascript. I started coding for a purpose a while ago, later I found myself coding for fun. 
 <br />
 
 ## Languages I've worked on:
