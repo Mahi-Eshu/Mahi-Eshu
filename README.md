@@ -10,9 +10,11 @@ I'm *Mahesh Kumar*, a fresher'24, graduation in Information Technology from R.M.
 </p>
 
 ## Frameworks I've worked on:
-* ExpressJs
+* Express
 * NextJs
 * Angular
+* Bootstrap
+* jQuery
 * Flutter
 
 ## Databases I've worked on:
