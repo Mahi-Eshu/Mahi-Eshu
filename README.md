@@ -3,6 +3,6 @@ I'm Mahesh Kumar, a fresher'24, graduation in Information Technology from R.M.D.
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,jquery,,ts,react,materialui,express,mongodb,mysql,nodejs,npm,bun,nextjs,threejs,git,github,vercel,vscode,firebase,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,jquery,ts,react,materialui,express,mongodb,mysql,nodejs,npm,bun,nextjs,threejs,git,github,vercel,vscode,firebase,figma" />
   </a>
 </p>
