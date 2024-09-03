@@ -12,4 +12,24 @@ I see myself as an enthusiastic and resilient person who is very much interested
 </p>
 
 ## Frameworks I've worked on:
-* kef
+* ExpressJs
+* NextJs
+* Angular
+* Flutter
+
+## Databases I've worked on:
+* MongoDB
+* MySQL
+
+## Softwares & Tools I've used:
+* Node.js
+* IntelliJ IDEA
+* Visual Studio Code
+* Firebase (Authentication, Storage, Analytics)
+* Resend (Developer's E-mail)
+* Razorpay
+* Algolia (AI-powered Search Engine)
+* Powershell
+* Git
+* Github Actions
+* Postman
