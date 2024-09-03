@@ -5,11 +5,13 @@ I'm *Mahesh Kumar*, a fresher'24, graduation in Information Technology from R.M.
 ## Languages I've worked on:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,powershell,react,nextjs,nodejs,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,powershell" />
   </a>
 </p>
 
-## Frameworks I've worked on:
+## Libraries & Frameworks I've worked on:
+* React.js
+* Three.js
 * Express
 * NextJs
 * Angular
