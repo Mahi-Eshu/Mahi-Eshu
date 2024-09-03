@@ -19,10 +19,6 @@ I'm *Mahesh Kumar*, a fresher'24, graduation in Information Technology from R.M.
 * jQuery
 * Flutter
 
-## Databases I've worked on:
-* MongoDB
-* MySQL
-
 ## Softwares & Tools I've used:
 * Node.js
 * IntelliJ IDEA
@@ -35,3 +31,8 @@ I'm *Mahesh Kumar*, a fresher'24, graduation in Information Technology from R.M.
 * Git
 * Github Actions
 * Postman
+
+## Databases I've worked on:
+* MongoDB
+* MySQL
+
