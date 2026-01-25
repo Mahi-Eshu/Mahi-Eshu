@@ -1,5 +1,5 @@
 # Hello there! 👋
-I'm *Mahesh Kumar*, a Software Developer @ Zoho Corporation, in Distributed & Real-time Systems on a collaboration platform that visualizes Protobuf-driven data on a canvas using Skia and C++. Beyond graphics and systems programming, I'm very much interested in Back-end development using Java  Full-stack development using Javascript Frameworks. I started coding for fun, later I found myself coding with purpose.
+I'm *Mahesh Kumar*, a Software Developer @ Zoho Corporation, in Distributed & Real-time Systems on a collaboration platform that visualizes Protobuf-driven data on a canvas using Skia and C++. Beyond graphics and systems programming, I'm very much interested in Back-end development using Java && Full-stack development using Javascript Frameworks. I started coding for fun, later I found myself coding with purpose.
 <br />
 
 ## Languages I've worked on:
