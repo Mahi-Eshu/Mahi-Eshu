@@ -1,5 +1,5 @@
 # Hello there! 👋
-I'm *Mahesh Kumar*, a Member Technical Staff @ Zoho Corporation. I hold a Bachelor's in Information Technology from R.M.D. Engineering College. I'm currently based at Tiruttani, Tamil Nadu, India. I see myself as an enthusiastic and resilient person, who is very much interested in Full-stack development using Javascript. I started coding for a purpose a while ago, later I found myself coding for fun. 
+I'm *Mahesh Kumar*, a Software Developer @ Zoho Corporation, working as a Graphics Rendering Engineer on a collaboration platform that visualizes Protobuf-driven data on a canvas using Skia and C++. Beyond graphics and systems programming, I'm very much interested in Full-stack development using Javascript Frameworks and Back-end development using Java. I started coding for fun, later I found myself coding with purpose.
 <br />
 
 ## Languages I've worked on:
@@ -9,15 +9,16 @@ I'm *Mahesh Kumar*, a Member Technical Staff @ Zoho Corporation. I hold a Bachel
   </a>
 </p>
 
+## Technical Skills
+* Prompt engineering across multiple models using GitHub Copilot
+* Efficient CPU and memory management through production-grade C++ development
+
 ## Libraries & Frameworks I've worked on:
 * React.js
 * Three.js
 * Express
 * NextJs
-* Angular
-* Bootstrap
 * jQuery
-* Flutter
 
 ## Softwares & Tools I've used:
 * Node.js
@@ -29,8 +30,6 @@ I'm *Mahesh Kumar*, a Member Technical Staff @ Zoho Corporation. I hold a Bachel
 * Algolia (AI-powered Search Engine)
 * Powershell
 * Git
-* Github Actions
-* Postman
 
 ## Databases I've worked on:
 * MongoDB
